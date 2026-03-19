@@ -12,7 +12,7 @@ class TinyFugue < Formula
 
   depends_on "libnet"
   depends_on "openssl@3.5"
-  depends_on "pcre"
+  depends_on "pcre2"
 
   uses_from_macos "ncurses"
 
